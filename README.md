@@ -1,7 +1,7 @@
 # Bài 3 : Camera đi theo nhân vật chuyển động
 Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở rương và nhặt item. Giết quái và đánh nhiều boss ở các map, nhân vật sẽ thu thập được Gold và vật phẩm. Sử dụng vật phẩm để tăng HP,Attack và Gold
 
-### Phạm vi bài giảng
+## Phạm vi bài giảng
 - Tạo project 3D
 - Tải nhân vật Maria và các hành động : idle,move,attack,jump
 - Setup nhân vật
@@ -9,7 +9,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 - Setup animation
 - Trang trí map
 
-### Resource
+## Resource
 
 | Mixamo | https://www.mixamo.com |
 | ------ | ------ |
@@ -19,7 +19,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 | Attack | Standing Melee Attack Horizontal |
 | Jump | jumping |
 
-### Cấu trúc Folder
+## Cấu trúc Folder
 + Assets
     + 📁Các plugin trong game
     + 📁Scenes
@@ -42,4 +42,5 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 
 ## License
 Quyển sở hữu của thầy Dương Đức Trí
+
 `Zalo` : 0379711459

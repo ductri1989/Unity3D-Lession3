@@ -31,3 +31,15 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
         + 📁SC_LV1 : Sau khi vào splash thì vào home
             + 📄Scene_LV1 : tên scene có tiền tố `Scene_` để dễ search trên `Unity Editor`
             + ⚙️GameManager.cs : script quản lý chung của scene
++ Document
+    * tài liệu chung
+    * SC_Splash
+    * SC_Home
+
+
+
+
+
+## License
+Quyển sở hữu của thầy Dương Đức Trí
+`Zalo` : 0379711459

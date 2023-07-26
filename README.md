@@ -24,7 +24,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
     + 📁Các plugin trong game
     + 📁Scenes
         + 📁Model
-            + 📁Maria : tất cả resource của nhân vật `Maria` sẽ nằm trong folder này (những anim riêng cũng nằm trong folder này)
+            + 📁Maria : tất cả resource của nhân vật `Maria` sẽ nằm trong folder này (những anim riêng cũng nằm trong folder này). Cả Materials và Textures của riêng nhân vật Maria cũng nằm trong Folder này
             + 📁Animation : nơi chứa các animation chung của tất cả nhân vật
         + 📁SC_Splash : nơi chứa tài nguyên của Scene 
         + 📁SC_Home : Sau khi vào splash thì vào home

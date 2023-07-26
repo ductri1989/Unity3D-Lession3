@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour{
-    [SerializeField] Transform tfPlayer;
-    [SerializeField] Transform tfCameraPlayer;
+    [SerializeField] Transform tfCameraGoc;
+    [SerializeField] Transform tfPlayer,tfCameraPlayer;
     [SerializeField] int rotateSpeed = 120;
 
 
@@ -24,6 +24,9 @@ public class GameManager : MonoBehaviour{
 
     void Update(){
 
-        viewMyPlayer();
+        //viewMyPlayer();
+
+        transform.position = tfCameraGoc.position;
+        transform.localEulerAngles = tfCameraGoc.localEulerAngles;
     }
 }

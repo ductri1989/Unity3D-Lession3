@@ -3,7 +3,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 
 ### Phạm vi bài giảng
 - Tạo project 3D
-- Setup bối cảnh
+- Trang trí map
 - Setup nhân vật
     - Tải nhân vật Maria
     - Giải nén Textures và Materials
@@ -18,7 +18,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
         - Cam ngước lên xuống
     
 
-- Trang trí map
+
 
 ### Resource
 

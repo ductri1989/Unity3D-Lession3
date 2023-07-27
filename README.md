@@ -6,6 +6,8 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 - Tải nhân vật Maria và các hành động : idle,move,attack,jump
 - Setup nhân vật
 - Setup camera
+    - Camera đi theo nhân vật
+    - Camera ở nhiều góc của bản đồ
 - Setup animation
 - Trang trí map
 

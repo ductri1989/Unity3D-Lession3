@@ -3,6 +3,7 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 
 ### Phạm vi bài giảng
 - Tạo project 3D
+- Setup bối cảnh
 - Setup nhân vật
     - Tải nhân vật Maria
     - Giải nén Textures và Materials
@@ -46,7 +47,6 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
     * SC_Splash
     * SC_Home
 
-https://drive.google.com/drive/folders/1zUBQ7vXBJ5giGpRlbT0-GvxXzqHOlKwY?usp=drive_link
 
 
 

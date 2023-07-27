@@ -3,12 +3,20 @@ Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở 
 
 ### Phạm vi bài giảng
 - Tạo project 3D
-- Tải nhân vật Maria và các hành động : idle,move,attack,jump
 - Setup nhân vật
+    - Tải nhân vật Maria
+    - Giải nén Textures và Materials
+    - Tải animation : idle,move,attack,jump
+    - Tạo AnimatorController → Setup Blendtree cho hành động idle và moving
+    - Xử lý phím di chuyển nhân vật
 - Setup camera
-    - Camera đi theo nhân vật
-    - Camera ở nhiều góc của bản đồ
-- Setup animation
+    - Camera ở nhiều góc của bản đồ : Lerp và set tọa độ, góc quay
+    - Camera gáy :
+        - Cam theo nhân vật
+        - Cam quay theo góc nhìn của nhân vật
+        - Cam ngước lên xuống
+    
+
 - Trang trí map
 
 ### Resource

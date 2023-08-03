@@ -1,21 +1,19 @@
-# Bài 3 : Camera đi theo nhân vật chuyển động
-Chủ đề : game nhập vai. Điều khiển 1 nhân vật đánh quái, mở rương và nhặt item. Giết quái và đánh nhiều boss ở các map, nhân vật sẽ thu thập được Gold và vật phẩm. Sử dụng vật phẩm để tăng HP,Attack và Gold
+Nhân vật và quái di chuyển bên trong Map
+Thiết kế 1 level trong game
 
 ### Phạm vi bài giảng
 - Tạo project 3D
 - Trang trí map
 - Setup nhân vật
-    - Tải nhân vật Maria
-    - Giải nén Textures và Materials
-    - Tải animation : idle,move,attack,jump
-    - Tạo AnimatorController → Setup Blendtree cho hành động idle và moving
-    - Xử lý phím di chuyển nhân vật
-- Setup camera
-    - Camera ở nhiều góc của bản đồ : Lerp và set tọa độ, góc quay
-    - Camera gáy :
-        - Cam theo nhân vật
-        - Cam quay theo góc nhìn của nhân vật
-        - Cam ngước lên xuống
+- Setup quái
+    - Tải nhiều loại quái khác nhau
+    - Di chuyển quái theo nhiều cách
+        - Di chuyển theo 2 điểm cho sẵn
+        - Di chuyển theo hình tam giác
+        - Di chuyển theo hình vòng tròn
+        - Di chuyển theo list Vector3 cho sẵn
+        - Di chuyển theo phương trình đường cong theo công thức toán
+        - AddForce list Vector3 cho sẵn
     
 
 
